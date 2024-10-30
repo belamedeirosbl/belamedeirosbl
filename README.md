@@ -1,9 +1,6 @@
 sou estudante de Ciências da Computação atualmente no quarto período. Possuo experiência com linguagens de programação, incluindo Python, Java, C e C++, além de conhecimentos básicos em MySQL e HTML. Estou sempre em busca de oportunidades para aprimorar minhas habilidades técnicas e aprender novas tecnologias. 
 
 <div>
-  <a href="https://github.com/belamedeirosbl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=belamedeirosbl&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
- 
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamedeirosbl&layout=compact&langs_count=16&theme=transparent"/>
   
   <div style="display: inline_block"><br>
