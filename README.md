@@ -1,6 +1,6 @@
 # Olá, eu sou Isabela Medeiros! 👋
 
-Sou estudante de Ciências da Computação atualmente no quarto período. Possuo experiência com linguagens de programação, incluindo Python, Java, C e C++, além de conhecimentos básicos em MySQL e HTML. Estou sempre em busca de oportunidades para aprimorar minhas habilidades técnicas e aprender novas tecnologias.
+Sou estudante de Ciência da Computação e estou cursando o quinto período atualmente. Gosto muito de programar, de explorar novos algoritmos e sempre descobrir a melhor solução para cada problema! Atualmente, participo de uma pesquisa PIBIC que foca na classificação de câncer de mama através de processamento de imagens e aplicação dos dados em redes neurais. Também faço parte da Maratona de Programação, participando anualmente de competições e praticando semanalmente para melhorar minhas habilidades. Estou sempre em busca de oportunidades para evoluir tecnicamente e aprender novas tecnologias.
 
 <div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamedeirosbl&layout=compact&langs_count=16&theme=transparent"/>
