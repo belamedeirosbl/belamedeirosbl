@@ -2,14 +2,6 @@
 
 Sou estudante de Ciência da Computação e estou cursando o quinto período atualmente. Gosto muito de programar, de explorar novos algoritmos e sempre descobrir a melhor solução para cada problema! Atualmente, participo de uma pesquisa PIBIC que foca na classificação de câncer de mama através de processamento de imagens e aplicação dos dados em redes neurais. Também faço parte da Maratona de Programação, participando anualmente de competições e praticando semanalmente para melhorar minhas habilidades. Estou sempre em busca de oportunidades para evoluir tecnicamente e aprender novas tecnologias.
 
----
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belamedeirosbl&layout=compact&langs_count=16&theme=transparent"/>
-</div>
-
----
-
 Aqui estão algumas das principais linguagens, frameworks, bancos de dados e ferramentas com as quais já pude trabalhar e desenvolver projetos ao longo da minha trajetória acadêmica e pessoal:
 
 ### 💻 Linguagens e Desenvolvimento
